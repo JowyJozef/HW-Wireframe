@@ -1,5 +1,5 @@
 # HW-Wireframe
-Easier Homework assignment HTML/CSS "HW-Wireframe (UCF Bootcamp)
+Easier Homework assignment HTML/CSS "Building a Wireframe" (UCF Bootcamp)
 
 ### Additional Specifications
 
