@@ -13,7 +13,7 @@ Easier Homework assignment HTML/CSS "HW-Wireframe (UCF Bootcamp)
    * Paragraph contained within the Article
 2. Your CSS should have styles for each of the following elements:
    * Body
-     * font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+     * font-family: 'Arial', 'Helvetica Neue',git  Helvetica, sans-serif;
      * color: '#777'
      * background: '#777'
      * width: '960px'
